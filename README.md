@@ -12,6 +12,7 @@ Este é um aplicativo de gerenciamento de refeições desenvolvido em React Nati
 ## Tecnologias Utilizadas
 - **React Native**: Para o desenvolvimento da interface do usuário e lógica do aplicativo.
 - **Expo**: Para facilitar o desenvolvimento e a implantação do aplicativo em dispositivos móveis.
+- **Expo Router**: Para gerenciar a navegação entre as telas do aplicativo.
 
 ## Instalação
 
